@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Yes yes yes",
   text7: "What time can I pick u up?",
   text8: "Drop me with <3",
-  text9: "7:30pm attach u ^^",
+  text9: "7:30pm attach me ^^",
   text10: "Thank you for using our service <3",
   text11:
     "See yah, my valentine",
