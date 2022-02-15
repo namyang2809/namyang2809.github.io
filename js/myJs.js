@@ -1,13 +1,13 @@
 const textConfig = {
-  text1: "Hello Lucie",
-  text2: "I have s0mething wanna ask u?!",
+  text1: "Hello Uyvy",
+  text2: "I have s0mething wanna ask u, my darling?!",
   text3: "Do you wanna be my valentine?",
   text4: "Please choose yes or no",
   text5: "No, absolutely not!",
   text6: "Yes yes yes",
-  text7: "What time can I pick u up?",
+  text7: "Baby thay' anh nhu the nao?",
   text8: "Drop me with <3",
-  text9: "7:30pm attach me ^^",
+  text9: "qua de thuong va dep trai luon, con thuong uyvy nua",
   text10: "Thank you for using our service <3",
   text11:
     "See yah, my valentine",
